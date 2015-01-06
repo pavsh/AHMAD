@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-import com.sun.pisces.PiscesRenderer;
+//import com.sun.pisces.PiscesRenderer;
 import ex1.AdminScreen;
 import ex1.Category;
 import ex1.ChoiceQuestion;
